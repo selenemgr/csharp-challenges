@@ -1,0 +1,14 @@
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\ConvertNumtoMonth\obj\Debug\net7.0\ConvertNumtoMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\ConvertNumtoMonth\obj\Debug\net7.0\ConvertNumtoMonth.AssemblyInfoInputs.cache
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\ConvertNumtoMonth\obj\Debug\net7.0\ConvertNumtoMonth.AssemblyInfo.cs
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\ConvertNumtoMonth\obj\Debug\net7.0\ConvertNumtoMonth.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\ConvertNumtoMonth\bin\Debug\net7.0\ConvertNumtoMonth.exe
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\ConvertNumtoMonth\bin\Debug\net7.0\ConvertNumtoMonth.deps.json
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\ConvertNumtoMonth\bin\Debug\net7.0\ConvertNumtoMonth.runtimeconfig.json
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\ConvertNumtoMonth\bin\Debug\net7.0\ConvertNumtoMonth.dll
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\ConvertNumtoMonth\bin\Debug\net7.0\ConvertNumtoMonth.pdb
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\ConvertNumtoMonth\obj\Debug\net7.0\ConvertNumtoMonth.dll
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\ConvertNumtoMonth\obj\Debug\net7.0\refint\ConvertNumtoMonth.dll
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\ConvertNumtoMonth\obj\Debug\net7.0\ConvertNumtoMonth.pdb
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\ConvertNumtoMonth\obj\Debug\net7.0\ConvertNumtoMonth.genruntimeconfig.cache
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\ConvertNumtoMonth\obj\Debug\net7.0\ref\ConvertNumtoMonth.dll

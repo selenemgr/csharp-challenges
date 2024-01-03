@@ -1,0 +1,4 @@
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\FezzBuzz\obj\Debug\net7.0\FezzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\FezzBuzz\obj\Debug\net7.0\FezzBuzz.AssemblyInfoInputs.cache
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\FezzBuzz\obj\Debug\net7.0\FezzBuzz.AssemblyInfo.cs
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\FezzBuzz\obj\Debug\net7.0\FezzBuzz.csproj.CoreCompileInputs.cache

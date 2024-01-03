@@ -1,0 +1,6 @@
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\FizzBuzz_Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\FizzBuzz_Test\obj\Debug\net7.0\FizzBuzz_Test.csproj.AssemblyReference.cache
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\FizzBuzz_Test\obj\Debug\net7.0\FizzBuzz_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\FizzBuzz_Test\obj\Debug\net7.0\FizzBuzz_Test.AssemblyInfoInputs.cache
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\FizzBuzz_Test\obj\Debug\net7.0\FizzBuzz_Test.AssemblyInfo.cs
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio\testing_skills\FizzBuzz_Test\obj\Debug\net7.0\FizzBuzz_Test.csproj.CoreCompileInputs.cache
