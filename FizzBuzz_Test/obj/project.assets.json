@@ -1718,6 +1718,16 @@
         "runtime": {
           "bin/placeholder/FezzBuzz.dll": {}
         }
+      },
+      "FizzBuzz/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FizzBuzz.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FizzBuzz.dll": {}
+        }
       }
     }
   },
@@ -5515,11 +5525,17 @@
       "type": "project",
       "path": "../FezzBuzz/FezzBuzz.csproj",
       "msbuildProject": "../FezzBuzz/FezzBuzz.csproj"
+    },
+    "FizzBuzz/1.0.0": {
+      "type": "project",
+      "path": "../FizzBuzz/FizzBuzz.csproj",
+      "msbuildProject": "../FizzBuzz/FizzBuzz.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "FezzBuzz >= 1.0.0",
+      "FizzBuzz >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.7.1",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
@@ -5560,6 +5576,9 @@
           "projectReferences": {
             "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio\\testing_skills\\csharp-challenges\\FezzBuzz\\FezzBuzz.csproj": {
               "projectPath": "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio\\testing_skills\\csharp-challenges\\FezzBuzz\\FezzBuzz.csproj"
+            },
+            "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio\\testing_skills\\csharp-challenges\\FizzBuzz\\FizzBuzz.csproj": {
+              "projectPath": "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio\\testing_skills\\csharp-challenges\\FizzBuzz\\FizzBuzz.csproj"
             }
           }
         }
