@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ASvu5uArRT0sER1vwWphTUjBbxzFm/F7sloVWzBpVoDEh8nYXaGmjtVROUoROaWMNsacWji+l7jC2qJ/FIaBg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio\\testing_skills\\csharp-challenges\\FizzBuzz_Test\\FizzBuzz_Test.csproj",
+  "dgSpecHash": "5o+rtfWuw/qzhz1sU77FoEYoLVw0ao7QmiRkl1xbdThy8KCobo3xIErOlleEEg0H/N9PSkc2Z1FoQEXX25G1vQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz_Test\\FizzBuzz_Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sebastian\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Sebastian\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",
@@ -94,5 +94,15 @@
     "C:\\Users\\Sebastian\\.nuget\\packages\\xunit.extensibility.execution\\2.4.2\\xunit.extensibility.execution.2.4.2.nupkg.sha512",
     "C:\\Users\\Sebastian\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.5\\xunit.runner.visualstudio.2.4.5.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FezzBuzz\\FezzBuzz.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FezzBuzz\\FezzBuzz.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

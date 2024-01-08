@@ -1,0 +1,14 @@
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio - Projects\testing_skills\csharp-challenges\FindTheBomb\bin\Debug\net7.0\FindTheBomb.exe
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio - Projects\testing_skills\csharp-challenges\FindTheBomb\bin\Debug\net7.0\FindTheBomb.deps.json
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio - Projects\testing_skills\csharp-challenges\FindTheBomb\bin\Debug\net7.0\FindTheBomb.runtimeconfig.json
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio - Projects\testing_skills\csharp-challenges\FindTheBomb\bin\Debug\net7.0\FindTheBomb.dll
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio - Projects\testing_skills\csharp-challenges\FindTheBomb\bin\Debug\net7.0\FindTheBomb.pdb
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio - Projects\testing_skills\csharp-challenges\FindTheBomb\obj\Debug\net7.0\FindTheBomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio - Projects\testing_skills\csharp-challenges\FindTheBomb\obj\Debug\net7.0\FindTheBomb.AssemblyInfoInputs.cache
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio - Projects\testing_skills\csharp-challenges\FindTheBomb\obj\Debug\net7.0\FindTheBomb.AssemblyInfo.cs
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio - Projects\testing_skills\csharp-challenges\FindTheBomb\obj\Debug\net7.0\FindTheBomb.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio - Projects\testing_skills\csharp-challenges\FindTheBomb\obj\Debug\net7.0\FindTheBomb.dll
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio - Projects\testing_skills\csharp-challenges\FindTheBomb\obj\Debug\net7.0\refint\FindTheBomb.dll
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio - Projects\testing_skills\csharp-challenges\FindTheBomb\obj\Debug\net7.0\FindTheBomb.pdb
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio - Projects\testing_skills\csharp-challenges\FindTheBomb\obj\Debug\net7.0\FindTheBomb.genruntimeconfig.cache
+C:\Users\Sebastian\OneDrive\Escritorio\Portafolio - Projects\testing_skills\csharp-challenges\FindTheBomb\obj\Debug\net7.0\ref\FindTheBomb.dll
