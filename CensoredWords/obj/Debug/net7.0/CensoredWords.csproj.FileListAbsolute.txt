@@ -1,0 +1,14 @@
+C:\Users\Sebastian\Desktop\Portafolio - Projects\testing_skills\csharp-challenges\CensoredWords\obj\Debug\net7.0\CensoredWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Desktop\Portafolio - Projects\testing_skills\csharp-challenges\CensoredWords\obj\Debug\net7.0\CensoredWords.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\Portafolio - Projects\testing_skills\csharp-challenges\CensoredWords\obj\Debug\net7.0\CensoredWords.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\Portafolio - Projects\testing_skills\csharp-challenges\CensoredWords\obj\Debug\net7.0\CensoredWords.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Portafolio - Projects\testing_skills\csharp-challenges\CensoredWords\bin\Debug\net7.0\CensoredWords.exe
+C:\Users\Sebastian\Desktop\Portafolio - Projects\testing_skills\csharp-challenges\CensoredWords\bin\Debug\net7.0\CensoredWords.deps.json
+C:\Users\Sebastian\Desktop\Portafolio - Projects\testing_skills\csharp-challenges\CensoredWords\bin\Debug\net7.0\CensoredWords.runtimeconfig.json
+C:\Users\Sebastian\Desktop\Portafolio - Projects\testing_skills\csharp-challenges\CensoredWords\bin\Debug\net7.0\CensoredWords.dll
+C:\Users\Sebastian\Desktop\Portafolio - Projects\testing_skills\csharp-challenges\CensoredWords\bin\Debug\net7.0\CensoredWords.pdb
+C:\Users\Sebastian\Desktop\Portafolio - Projects\testing_skills\csharp-challenges\CensoredWords\obj\Debug\net7.0\CensoredWords.dll
+C:\Users\Sebastian\Desktop\Portafolio - Projects\testing_skills\csharp-challenges\CensoredWords\obj\Debug\net7.0\refint\CensoredWords.dll
+C:\Users\Sebastian\Desktop\Portafolio - Projects\testing_skills\csharp-challenges\CensoredWords\obj\Debug\net7.0\CensoredWords.pdb
+C:\Users\Sebastian\Desktop\Portafolio - Projects\testing_skills\csharp-challenges\CensoredWords\obj\Debug\net7.0\CensoredWords.genruntimeconfig.cache
+C:\Users\Sebastian\Desktop\Portafolio - Projects\testing_skills\csharp-challenges\CensoredWords\obj\Debug\net7.0\ref\CensoredWords.dll

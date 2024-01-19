@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xSmLuP/4FmZFWjNEH3cMfNQMny4Ntc1VsC5HofmdIoGmqqWJ+d/lSUA3Vjal+1AEYSGIJYWROrpic8zstHpiWg==",
+  "dgSpecHash": "FXlyJbZpaCwwjXXg6GqrVmaMSnfd4xZYn1ERAR34dJZRkCCGesfZUCbLzOGdGGGOhjozhhKtquMZbvVgAMIQ+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FindTheBomb.test\\FindTheBomb.test.csproj",
+  "projectFilePath": "C:\\Users\\Sebastian\\Desktop\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FindTheBomb.test\\FindTheBomb.test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sebastian\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Sebastian\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",

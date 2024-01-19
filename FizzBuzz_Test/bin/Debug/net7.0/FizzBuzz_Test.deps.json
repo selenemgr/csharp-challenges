@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v7.0": {
       "FizzBuzz_Test/1.0.0": {
         "dependencies": {
-          "FezzBuzz": "1.0.0",
           "FizzBuzz": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.7.1",
           "coverlet.collector": "3.2.0",

@@ -1,0 +1,10 @@
+	CensoredWords
+
+	//public class Program
+	//{
+	//	public static string Uncensor(string txt, string vowels)
+	//	{
+	//		var q = new Queue<char>(vowels.ToCharArray());
+	//		return Regex.Replace(txt, @"\*", m => q.Dequeue().ToString());
+	//	}
+	//}

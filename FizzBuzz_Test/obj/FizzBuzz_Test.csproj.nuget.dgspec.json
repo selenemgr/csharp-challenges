@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz_Test\\FizzBuzz_Test.csproj": {}
+    "C:\\Users\\Sebastian\\Desktop\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz_Test\\FizzBuzz_Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz\\FizzBuzz.csproj": {
+    "C:\\Users\\Sebastian\\Desktop\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz\\FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "C:\\Users\\Sebastian\\Desktop\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz\\FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz\\FizzBuzz.csproj",
+        "projectPath": "C:\\Users\\Sebastian\\Desktop\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz\\FizzBuzz.csproj",
         "packagesPath": "C:\\Users\\Sebastian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz\\obj\\",
+        "outputPath": "C:\\Users\\Sebastian\\Desktop\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz_Test\\FizzBuzz_Test.csproj": {
+    "C:\\Users\\Sebastian\\Desktop\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz_Test\\FizzBuzz_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz_Test\\FizzBuzz_Test.csproj",
+        "projectUniqueName": "C:\\Users\\Sebastian\\Desktop\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz_Test\\FizzBuzz_Test.csproj",
         "projectName": "FizzBuzz_Test",
-        "projectPath": "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz_Test\\FizzBuzz_Test.csproj",
+        "projectPath": "C:\\Users\\Sebastian\\Desktop\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz_Test\\FizzBuzz_Test.csproj",
         "packagesPath": "C:\\Users\\Sebastian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz_Test\\obj\\",
+        "outputPath": "C:\\Users\\Sebastian\\Desktop\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz_Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,11 +91,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FezzBuzz\\FezzBuzz.csproj": {
-                "projectPath": "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FezzBuzz\\FezzBuzz.csproj"
-              },
-              "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz\\FizzBuzz.csproj": {
-                "projectPath": "C:\\Users\\Sebastian\\OneDrive\\Escritorio\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz\\FizzBuzz.csproj"
+              "C:\\Users\\Sebastian\\Desktop\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz\\FizzBuzz.csproj": {
+                "projectPath": "C:\\Users\\Sebastian\\Desktop\\Portafolio - Projects\\testing_skills\\csharp-challenges\\FizzBuzz\\FizzBuzz.csproj"
               }
             }
           }
